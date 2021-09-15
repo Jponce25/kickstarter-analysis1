@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Analisys on Kickstarter data
+An Analysis of Kickstarter Campaigns.
